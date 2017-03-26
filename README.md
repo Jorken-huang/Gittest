@@ -1,1 +1,1 @@
-a good template for backstage management system!
+最近发现的一个angularjs后台管理系统的模板，特拿来跟大家分享一下。
